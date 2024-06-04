@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://yyg0725.xyz/blog/
+url: https://yyg0725.xyz/
 date_format: "ordinal"
 title: Orangepie
 subtitle: "A cute orangepie"
